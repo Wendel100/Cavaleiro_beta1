@@ -1,0 +1,4 @@
+res://Assets/maps/mundo_01.tscn
+res://Assets/Players/cavalheiro.tscn
+res://Assets/Items/moedas.tscn
+res://Assets/Scripts/game_global.gd

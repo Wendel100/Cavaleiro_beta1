@@ -1,0 +1,37 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1717903680
+icon.svg::CompressedTexture2D::4450149951226813973::1717885311::1717885357::1::::<><>::
+::res://Assets/::1717903313
+::res://Assets/controles/::1717123958
+::res://Assets/efeitos_sonoros/::1717885508
+fated encounter.mp3::AudioStreamMP3::5243511896465141351::1716694098::1717885507::1::::<><>::
+leaving home.mp3::AudioStreamMP3::6619530524235124825::1716154000::1717885507::1::::<><>::
+Moeda_sound.mp3::AudioStreamMP3::6046295509392119398::1715096788::1717885507::1::::<><>::
+musica_tema.mp3::AudioStreamMP3::7225674881034007071::1715097124::1717885508::1::::<><>::
+::res://Assets/Enemys/::1717885508
+Dragon.png::CompressedTexture2D::1908198984049524917::1717883101::1717885508::1::::<><>::
+Islame.png::CompressedTexture2D::4817223668969951071::1717883101::1717885508::1::::<><>::
+::res://Assets/Items/::1717887772
+arvore.png::CompressedTexture2D::2169419462121974579::1713186473::1717885508::1::::<><>::
+efeito.png::CompressedTexture2D::5417438888395224378::1717887396::1717887772::1::::<><>::
+moedas.png::CompressedTexture2D::5464467589548197571::1717887396::1717887772::1::::<><>::
+Power.png::CompressedTexture2D::3313584281642823560::1717883100::1717885508::1::::<><>::
+::res://Assets/maps/::1717902769
+Arvores.png::CompressedTexture2D::4399771217913336417::1717470593::1717885508::1::::<><>::
+cenario.png::CompressedTexture2D::418287796239311039::1717126657::1717885508::1::::<><>::
+escola.png::CompressedTexture2D::4472937583703920168::1717884863::1717885508::1::::<><>::
+mundo_01.tscn::PackedScene::3746474835872206876::1717902769::0::1::::<><>::uid://f7veys8v5xhv::::res://Assets/maps/cenario.png<>uid://b3xbonf4hoiyq::::res://Assets/Players/cavalheiro.tscn
+Terreno1.png::CompressedTexture2D::8643697895377023226::1717883101::1717885508::1::::<><>::
+Terreno2.png::CompressedTexture2D::6937173540223708671::1717883101::1717885508::1::::<><>::
+Terreno3.png::CompressedTexture2D::2984102138929808253::1717883100::1717885508::1::::<><>::
+::res://Assets/paralax/::1717903313
+ceu.png::CompressedTexture2D::5072140963791758146::1717903219::1717903683::1::::<><>::
+estrelas.png::CompressedTexture2D::5615415242855432486::1717903269::1717903683::1::::<><>::
+::res://Assets/Players/::1717889681
+Cavalheiro.png::CompressedTexture2D::2860655516645724714::1717886892::1717886895::1::::<><>::
+cavalheiro.tscn::PackedScene::4399275403863933600::1717889681::0::1::::<><>::uid://bg0ytwv58o8t7::::res://Assets/Players/Cavalheiro.png<>res://Assets/Scripts/cavalheiro.gd<>uid://bqaoygjquqce4::::res://Assets/Players/parado.png
+parado.png::CompressedTexture2D::3510335408651732653::1717889586::1717889592::1::::<><>::
+Xr.png::CompressedTexture2D::691225306433276913::1717883026::1717885508::1::::<><>::
+::res://Assets/Scripts/::1717888045
+cavalheiro.gd::GDScript::-1::1717888045::0::1::::<>CharacterBody2D<>::
+::res://Assets/Sprints/::1717883070
